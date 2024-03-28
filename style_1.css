@@ -42,9 +42,9 @@ h2{
   transition: color 0.3s ease;
 }
 h2:hover {
-  color: white; /* Change color on hover */
-  background-color: brown;
-  border-radius: 12px;
+  color: brown; /* Change color on hover */
+/*  background-color: brown;*/
+/*  border-radius: 12px;*/
 }
 
 footer {
